@@ -1,12 +1,6 @@
 # Virtual environment
 .env/
 
-# Data files (downloaded at runtime)
-data/
-
-# Generated outputs
-outputs/
-
 # Python
 __pycache__/
 *.py[cod]
